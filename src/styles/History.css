@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    padding: 20px;
+}
+
+table,th,tr,td{
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 20px;
+}
+
+th{
+    background-color: burlywood;
+}
+
+td{
+    background-color: black;
+    color: white;
+}

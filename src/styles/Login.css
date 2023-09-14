@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.content{
+    height: 92vh;
+    background-color: burlywood;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 50px 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    gap: 20px;
+    width: 30vw;
+    text-align: center;
+    align-items: center;
+}
+
+form .credentials{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 100px;
+}
+
+form input{
+    height: 30px;
+    width: 250px;
+    background-color: black;
+    color: inherit;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+a{
+    color: white;
+}
+
+.error{
+    font-weight: 600;
+}
