@@ -4,7 +4,7 @@ It is an application in which users can deposit,withdraw and view history of act
 
 ## Front-End
 
-I have used `Redux` for state management.  
+I have used `Redux Toolkit` for state management.  
 
 `React-router` is used for routing between pages without sending request to front-end.  
 
