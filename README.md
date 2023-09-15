@@ -14,7 +14,7 @@ I have used `Redux Toolkit` for state management.
 
 `CreateAsyncThunk` is used as it simplifies the process of defining and dispatching asynchronous actions.  
 
-`LocalStorage` is used for storing and retrieving data./
+`LocalStorage` is used for storing and retrieving data.
 
 ## Back-End
 
